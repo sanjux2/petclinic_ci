@@ -1,16 +1,15 @@
-#$path_httpd = "/usr/local/httpd"
 $untar_loc = "/tmp/httpd.tar.gz"
 $extract_dir = "/tmp/httpd-2.4.10"
 
 case $operatingsystem {
     'Redhat', 'CentOS': {
- 	$path_httpd = "/etc/httpd1" 
+ 	$path_httpd = "/etc/httpd" 
      }
      /^(Debian|Ubuntu)$/: {
         $path_httpd = "/etc/apache2"
      }
      default: { 
-        $path_httpd = "/etc/httpd1"
+        $path_httpd = "/etc/httpd"
      }
 }
 
