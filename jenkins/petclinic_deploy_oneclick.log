@@ -1,0 +1,9 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /usr/share/tomcat/.jenkins/jobs/petclinic_deploy/workspace
+Unable to access upstream artifacts area /usr/share/tomcat/.jenkins/jobs/petclinic_create_war/builds/2014-12-16_23-38-37/archive. Does source project archive artifacts?
+Copied 2 artifacts from "[8mha:AAAAuh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhQKGFw18/KT9IvSC1JBtqYmRyfXJSaWJIaX55YpJ9flK5XXAAyNq0oMTe1PL8oW684MbcgJ7VYBSKuC9enDwBw5SNGzAAAAA==[0mpetclinic_create_war » petclinic" build number [8mha:AAAAux+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMQoYfDUz8pP0i9ILUkG2piZHJ9clJpYkhpfnlikn1+UrldcADI2rSgxN7U8vyhbrzgxtyAntVgFIq4L16dvqA8AfpTB8c4AAAA=[0m1
+Deploying /usr/share/tomcat/.jenkins/jobs/petclinic_deploy/workspace/org.springframework.samples/spring-petclinic/1.0.0-SNAPSHOT/spring-petclinic-1.0.0-SNAPSHOT.war to container Tomcat 7.x Remote
+  Redeploying [/usr/share/tomcat/.jenkins/jobs/petclinic_deploy/workspace/org.springframework.samples/spring-petclinic/1.0.0-SNAPSHOT/spring-petclinic-1.0.0-SNAPSHOT.war]
+  Undeploying [/usr/share/tomcat/.jenkins/jobs/petclinic_deploy/workspace/org.springframework.samples/spring-petclinic/1.0.0-SNAPSHOT/spring-petclinic-1.0.0-SNAPSHOT.war]
+  Deploying [/usr/share/tomcat/.jenkins/jobs/petclinic_deploy/workspace/org.springframework.samples/spring-petclinic/1.0.0-SNAPSHOT/spring-petclinic-1.0.0-SNAPSHOT.war]
+Finished: SUCCESS
